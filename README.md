@@ -1,2 +1,3 @@
-# Curso-Git---Dio
-Curso de Git e Github na DIO (Digital Inovation One)
+# Curso-Git/GitHub Dio
+Curso de Git e GitHub na DIO (Digital Inovation One)
+
